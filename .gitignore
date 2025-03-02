@@ -1,0 +1,8 @@
+# Node modules
+node_modules/
+
+# Environment variables (do not push your API keys)
+.env
+
+# Build output (for frontend if using Vite or Vue CLI)
+dist/
